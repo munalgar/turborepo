@@ -11,8 +11,8 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@repo/ui": "*",
-    "expo": "~52.0.46",
+    "@repo/ui": "workspace:*",
+    "expo": "^54.0.31",
     "expo-constants": "~17.0.8",
     "expo-linking": "~7.0.5",
     "expo-router": "~4.0.21",
